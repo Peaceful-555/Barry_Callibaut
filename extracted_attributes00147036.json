@@ -1,0 +1,79 @@
+{
+  "allergen_items": {
+    "explicit": {},
+    "inferred": {
+      "Allergen Free": {
+        "value": "No urgency for allergen-free chip as per current project status",
+        "source": "inferred",
+        "note": "Mentioned that allergen-free chip is not urgent for the Chocolate Chip Pop Tart project."
+      }
+    }
+  },
+  "claims_certifications": {
+    "explicit": {},
+    "inferred": {
+      "Kosher Pareve": {
+        "value": "Kosher Pareve certification implied for 12M and 10M chips",
+        "source": "inferred",
+        "note": "12M and 10M chips are referred to as Pareve, indicating Kosher certification."
+      }
+    }
+  },
+  "ingredients_composition": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "legal_specifications": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "nutritional_values": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "packaging_information": {
+    "explicit": {},
+    "inferred": {
+      "Carton Net Weight": {
+        "value": "50 lb or 30 lb",
+        "source": "inferred",
+        "note": "Customer is considering 50 lb or 30 lb carton sizes for the 12M Pareve chip SKU."
+      }
+    }
+  },
+  "sales_commercial": {
+    "explicit": {},
+    "inferred": {
+      "SKU Creation": {
+        "value": "New SKU for 12M Pareve chip",
+        "source": "inferred",
+        "note": "Customer suggests creating a new SKU for the 12M Pareve chip to be used in multiple projects."
+      }
+    }
+  },
+  "technical_specifications": {
+    "explicit": {
+      "Moulding_Type": {
+        "value": "Chips",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Product_Type": {
+        "value": "Chocolate Chip",
+        "source": "inferred",
+        "note": "Document references chocolate chips for multiple projects."
+      },
+      "Base_Type": {
+        "value": "Unknown",
+        "source": "inferred",
+        "note": "Base type not explicitly mentioned; assumed chocolate-based due to chip context."
+      },
+      "Chip Size": {
+        "value": "10M, 12M, 15M",
+        "source": "inferred",
+        "note": "Various chip sizes mentioned in the document."
+      }
+    }
+  }
+}

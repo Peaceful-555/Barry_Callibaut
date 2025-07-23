@@ -1,0 +1,107 @@
+{
+  "Product & Application": {
+    "Brand": "Murray St",
+    "Product Type": "Ice Cream Sticks and Sandwiches",
+    "Application": "Milk chocolate coating for enrobing ice cream sticks and sandwiches"
+  },
+  "Shelf Life": {
+    "Finished Goods": "2 Years",
+    "Raw Material": "Minimum 12 months"
+  },
+  "Raw Material Format": "Kibble/button/chips",
+  "Appearance": {
+    "Color": "Medium to light brown typical of milk chocolate",
+    "Pantone Reference": "35-45 RLU",
+    "Texture": "Smooth, crisp snap when bitten into, not chewy or soft"
+  },
+  "Cocoa & Milk Content Details": {
+    "Cocoa Solids": "26%, 28%, 30% (to be assessed)",
+    "Milk Solids (Non-fat)": "Compliant with Codex Standard for Milk Chocolate",
+    "Fat Content": "Compliant with Codex Standard for Milk Chocolate",
+    "Sugar Content": "Compliant with Codex Standard for Milk Chocolate"
+  },
+  "Additives and Emulsifiers": {
+    "Emulsifiers": "Lecithin, PGPR (e476) below 5g/kg (0.5%)",
+    "Vegetable Oil": "Permissible amounts as per FSC guidelines",
+    "Natural Flavourings": "Included"
+  },
+  "Flavour & Aroma": {
+    "Flavour": "Authentic milk chocolate flavour profile, sweet, creamy, balanced with cocoa-milk note, slight natural caramel or vanilla undertones, lingering chocolate flavour, no off-flavours",
+    "Aroma": "Typical of milk chocolate"
+  },
+  "Target Usage or Dosage": {
+    "Dosage Rate": "Approx 20g/stick",
+    "Sample Quantity Required": "2kg per variant initially"
+  },
+  "Export & Market Requirements": {
+    "Export Markets": "Comply with China"
+  },
+  "Packaging Format": "15kg bags/boxes",
+  "Storage and Handling": {
+    "Temperature Control": "15\u2103 to 20\u2103"
+  },
+  "Claims and Certifications": {
+    "Halal Certified": "Yes",
+    "Kosher": "No",
+    "Vegetarian": "Yes",
+    "Non-Palm": "Requested by Customer",
+    "RSPO Palm Oil": "Yes (Segregated as a minimum)",
+    "GMO Free": "Yes",
+    "No Artificial Colours": "Yes",
+    "No Artificial Flavours": "Yes",
+    "No Preservatives": "Yes",
+    "No Artificial Sweeteners": "Yes",
+    "Cocoa Certification": "Yes",
+    "Eggs Free Range": "Yes",
+    "Other Certifications": "Coffee, Tea, Coconut, Soy, Hazelnut"
+  },
+  "Allergen Information": {
+    "Permitted Allergens": "Milk, Soy"
+  },
+  "Compliance Standards": {
+    "Codex Standard for Milk Chocolate": "Compliant",
+    "AFGC PIF 6.0": "Required",
+    "AFGC Country of Origin Annex": "Required",
+    "Safety Data Sheet": "Required"
+  },
+  "Processing Conditions": {
+    "Enrobing Process": "Must withstand enrobing, wrapping, and boxing",
+    "Processing Parameters": {
+      "Kibble Melter": "40-60\u2103 for 90 mins per 1000kg",
+      "Ice Cream Temperature": "-37.5\u2103 when dipped into melted chocolate",
+      "Time Between Dipping and Wrapping": "118 seconds (single index), 60 seconds (double index)"
+    }
+  },
+  "Nutritional or Microbiological Parameters": {
+    "Standard Plate Count": "Max 20,000 cfu/g",
+    "Salmonella": "Absent in 25g",
+    "Enterobacteriaceae": "Max 10 cfu/g",
+    "Foreign Matter": "Absent"
+  },
+  "Ingredient Restrictions or Bans": {
+    "No Artificial Trans Fats": "Required",
+    "No Partially Hydrogenated Oils": "Required",
+    "No High-Fructose Corn Syrup": "Required",
+    "No Carmine, Annatto, Titanium Dioxide": "Required",
+    "No Artificial Colours": "Required",
+    "Processed Eucheuma Seaweed (INS 407a)": "Not Permitted",
+    "Sodium Citrate (331)": "Tri-Sodium Citrate Required",
+    "Dangerous Goods Flavours": "Avoid"
+  },
+  "Contacts and Submission Requirements": {
+    "R&D Contact": {
+      "Name": "Michelle Gardiner",
+      "Title": "Product Development Technologist",
+      "Email": "Michelle.Gardiner@bulla.com.au",
+      "Phone": "0457 157 748",
+      "Address": "91-149 Forest Street, Colac, VIC 3250, Australia"
+    },
+    "Procurement Contact": {
+      "Name": "Olivia Li",
+      "Title": "Sourcing Manager Direct Materials",
+      "Email": "Olivia.Li@Bulla.com.au",
+      "Phone": "0400 084 756",
+      "Address": "15 Swann Drive, Derrimut, VIC 3030, Australia"
+    }
+  }
+}

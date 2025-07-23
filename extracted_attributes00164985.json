@@ -1,0 +1,97 @@
+{
+  "allergen_items": {
+    "explicit": {},
+    "inferred": {
+      "Milk": {
+        "value": "Present",
+        "source": "inferred",
+        "note": "Milk chocolate explicitly mentioned, implying milk as an allergen."
+      }
+    }
+  },
+  "claims_certifications": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "ingredients_composition": {
+    "explicit": {},
+    "inferred": {
+      "Vanilla Flavor": {
+        "value": "Present",
+        "source": "inferred",
+        "note": "Customer feedback mentions 'fake vanilla flavor,' implying vanilla flavor is part of the composition."
+      }
+    }
+  },
+  "legal_specifications": {
+    "explicit": {},
+    "inferred": {
+      "Legal Declaration Required": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Product is intended for commercial sale, requiring legal compliance."
+      }
+    }
+  },
+  "nutritional_values": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "packaging_information": {
+    "explicit": {},
+    "inferred": {
+      "Packaging Format": {
+        "value": "Pail",
+        "source": "inferred",
+        "note": "Customer requested a 5-pound pail for sensory evaluation."
+      }
+    }
+  },
+  "sales_commercial": {
+    "explicit": {
+      "Price per Pound": {
+        "value": "$2.25/lb DDP",
+        "source": "explicit"
+      },
+      "Volume": {
+        "value": "400,000 pounds",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Market Target": {
+        "value": "Commercial",
+        "source": "inferred",
+        "note": "Product is being developed for Asher's commercial use."
+      }
+    }
+  },
+  "technical_specifications": {
+    "explicit": {
+      "Product_Type": {
+        "value": "Milk Chocolate Liquid",
+        "source": "explicit"
+      },
+      "Base_Type": {
+        "value": "Milk",
+        "source": "explicit"
+      },
+      "Moulding_Type": {
+        "value": "Liquid",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Creaminess": {
+        "value": "High",
+        "source": "inferred",
+        "note": "Customer feedback requested more creaminess in the product."
+      },
+      "Sweetness": {
+        "value": "Moderate to High",
+        "source": "inferred",
+        "note": "Customer feedback requested more sweetness in the product."
+      }
+    }
+  }
+}

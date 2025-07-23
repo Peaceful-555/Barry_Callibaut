@@ -1,0 +1,229 @@
+{
+  "allergen_items": {
+    "explicit": {
+      "Permitted Allergens": {
+        "value": [
+          "Milk",
+          "Soy"
+        ],
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Cross-Contamination Risk": {
+        "value": "May contain traces of other allergens due to shared processing equipment",
+        "source": "inferred",
+        "note": "Standard risk in shared facilities for allergen processing"
+      }
+    }
+  },
+  "claims_certifications": {
+    "explicit": {
+      "Halal Certified": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "RSPO Palm Oil": {
+        "value": "Yes (Segregated as a minimum)",
+        "source": "explicit"
+      },
+      "GMO Free": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "No Artificial Colours": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "No Artificial Flavours": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "No Preservatives": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "No Artificial Sweeteners": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "Cocoa Certification": {
+        "value": [
+          "Rainforest Alliance",
+          "Fair Trade",
+          "Cocoa Horizons"
+        ],
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Vegetarian": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Milk chocolate coating is vegetarian by default unless otherwise stated"
+      },
+      "Sustainable Sourcing": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "RSPO certification and cocoa certifications imply sustainable sourcing"
+      }
+    }
+  },
+  "ingredients_composition": {
+    "explicit": {
+      "Cocoa Solids": {
+        "value": [
+          "26%",
+          "28%",
+          "30%"
+        ],
+        "source": "explicit"
+      },
+      "Milk Solids (Non-fat)": {
+        "value": "Compliant with Codex Standard for Milk Chocolate",
+        "source": "explicit"
+      },
+      "Fat Content": {
+        "value": "Compliant with Codex Standard for Milk Chocolate",
+        "source": "explicit"
+      },
+      "Sugar Content": {
+        "value": "Compliant with Codex Standard for Milk Chocolate",
+        "source": "explicit"
+      },
+      "Additives": {
+        "value": [
+          "Emulsifiers (e.g., lecithin)",
+          "PGPR (e476) below 0.5%",
+          "Natural flavourings",
+          "Vegetable oil (per FSC guidelines)"
+        ],
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Vegetable Fats": {
+        "value": "Present",
+        "source": "inferred",
+        "note": "PGPR and lecithin usage implies vegetable fats in the formulation"
+      }
+    }
+  },
+  "legal_specifications": {
+    "explicit": {
+      "Codex Compliance": {
+        "value": "Compliant with Codex Standard for Milk Chocolate",
+        "source": "explicit"
+      },
+      "Export Compliance": {
+        "value": "China",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Legal Declaration Required": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Export compliance and Codex standards imply legal declarations"
+      }
+    }
+  },
+  "nutritional_values": {
+    "explicit": {},
+    "inferred": {
+      "Energy Density": {
+        "value": "High",
+        "source": "inferred",
+        "note": "Milk chocolate coating typically has high fat and sugar content"
+      }
+    }
+  },
+  "packaging_information": {
+    "explicit": {
+      "Packaging Format": {
+        "value": "15kg bags/boxes",
+        "source": "explicit"
+      },
+      "Storage Conditions": {
+        "value": "Temperature control between 15\u2103 to 20\u2103",
+        "source": "explicit"
+      },
+      "Shelf Life": {
+        "value": "Minimum 12 months (raw material)",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Durability": {
+        "value": "High",
+        "source": "inferred",
+        "note": "Packaging in bags/boxes and temperature control implies durability"
+      }
+    }
+  },
+  "sales_commercial": {
+    "explicit": {
+      "Indicative Volumes": {
+        "value": "66 Tonne Year 1, 10% more for Year 2",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Market Target": {
+        "value": "Premium ice cream products",
+        "source": "inferred",
+        "note": "Competitor products and premium flavour requirements imply target market"
+      }
+    }
+  },
+  "technical_specifications": {
+    "explicit": {
+      "Moulding_Type": {
+        "value": "Kibble/button/chips",
+        "source": "explicit"
+      },
+      "Processing Requirements": {
+        "value": [
+          "Must withstand enrobing process",
+          "Maintain softness during wrapping",
+          "Processing parameters: 40-60\u2103 in kibble melter for 90mins per 1000kg",
+          "Ice cream dipped at -37.5\u2103",
+          "Time between dipping and wrapping: 118 seconds (single index), 60 seconds (double index)"
+        ],
+        "source": "explicit"
+      },
+      "Texture": {
+        "value": "Smooth, crisp snap when bitten into, not chewy or soft",
+        "source": "explicit"
+      },
+      "Appearance": {
+        "value": "Medium to light brown typical of milk chocolate",
+        "source": "explicit"
+      },
+      "Colour": {
+        "value": "Pantone Ref # 35-45 RLU",
+        "source": "explicit"
+      },
+      "Flavour": {
+        "value": "Sweet, creamy, balanced with cocoa-milk note, slight natural caramel or vanilla undertones, lingering chocolate flavour, no off-flavours",
+        "source": "explicit"
+      },
+      "Aroma": {
+        "value": "Typical of milk chocolate",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Freezer Stability": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Frozen application stability explicitly required"
+      },
+      "Snap Texture": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Explicit requirement for crisp snap when bitten into"
+      }
+    }
+  }
+}

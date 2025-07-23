@@ -1,0 +1,131 @@
+{
+  "allergen_items": {
+    "explicit": {},
+    "inferred": {
+      "Milk": {
+        "value": "Present",
+        "source": "inferred",
+        "note": "White chocolate typically contains milk solids."
+      },
+      "Soy": {
+        "value": "May be present",
+        "source": "inferred",
+        "note": "Soy lecithin is commonly used as an emulsifier in chocolate products."
+      }
+    }
+  },
+  "claims_certifications": {
+    "explicit": {},
+    "inferred": {
+      "Non-GMO": {
+        "value": "Not specified",
+        "source": "inferred",
+        "note": "No explicit mention of GMO-free claims in the document."
+      }
+    }
+  },
+  "ingredients_composition": {
+    "explicit": {},
+    "inferred": {
+      "White Chocolate Base": {
+        "value": "White chocolate",
+        "source": "inferred",
+        "note": "Product descriptions consistently refer to white chocolate."
+      },
+      "Emulsifiers": {
+        "value": "Likely includes lecithin",
+        "source": "inferred",
+        "note": "Lecithin is a common emulsifier in chocolate products."
+      }
+    }
+  },
+  "legal_specifications": {
+    "explicit": {},
+    "inferred": {
+      "Export Compliance": {
+        "value": "Canada and US",
+        "source": "inferred",
+        "note": "Samples are being sent to Canadian and US offices for evaluation."
+      },
+      "Tariff Restrictions": {
+        "value": "Compound chip not approved for sale in Canada",
+        "source": "explicit",
+        "note": "Document explicitly mentions tariff restrictions for compound chip."
+      }
+    }
+  },
+  "nutritional_values": {
+    "explicit": {},
+    "inferred": {
+      "Fat Content": {
+        "value": "Not specified",
+        "source": "inferred",
+        "note": "No explicit mention of fat content in the document."
+      }
+    }
+  },
+  "packaging_information": {
+    "explicit": {},
+    "inferred": {
+      "Packaging Format": {
+        "value": "Boxes and pallets",
+        "source": "inferred",
+        "note": "Document mentions products being packed in boxes and pallets."
+      },
+      "Pack Sizes": {
+        "value": "4 kg, 10 lbs, 22 lbs, 30 lbs",
+        "source": "explicit",
+        "note": "Pack sizes are explicitly listed for various products."
+      }
+    }
+  },
+  "sales_commercial": {
+    "explicit": {
+      "Pricing": {
+        "value": "Various prices per kg for different products",
+        "source": "explicit"
+      },
+      "MOQ": {
+        "value": "Not specified",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Market Target": {
+        "value": "Canada and US",
+        "source": "inferred",
+        "note": "Samples are being sent to Canadian and US offices for evaluation."
+      },
+      "Sales Channel": {
+        "value": "Foodservice and retail",
+        "source": "inferred",
+        "note": "Products are described as toppings and decor items, suitable for foodservice and retail."
+      }
+    }
+  },
+  "technical_specifications": {
+    "explicit": {},
+    "inferred": {
+      "Product_Type": {
+        "value": "White chocolate blossoms, curls, chips",
+        "source": "inferred",
+        "note": "Document lists multiple white chocolate products."
+      },
+      "Base_Type": {
+        "value": "White chocolate",
+        "source": "inferred",
+        "note": "All products are described as white chocolate."
+      },
+      "Moulding_Type": {
+        "value": "Blossoms, curls, chips",
+        "source": "inferred",
+        "note": "Document specifies these shapes for the products."
+      },
+      "Components_Specifications": {
+        "value": "Likely includes emulsifiers such as lecithin",
+        "source": "inferred",
+        "note": "Lecithin is commonly used in chocolate products."
+      }
+    }
+  }
+}

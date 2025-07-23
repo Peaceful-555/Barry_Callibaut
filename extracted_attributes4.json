@@ -1,0 +1,221 @@
+{
+  "allergen_items": {
+    "explicit": {
+      "Permitted Allergens": {
+        "value": "Milk, Soy",
+        "source": "explicit"
+      }
+    },
+    "inferred": {}
+  },
+  "claims_certifications": {
+    "explicit": {
+      "Halal Certified": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "Kosher Certified": {
+        "value": "No",
+        "source": "explicit"
+      },
+      "Vegetarian": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "RSPO Palm Oil Certified": {
+        "value": "Yes (Segregated as a minimum)",
+        "source": "explicit"
+      },
+      "GMO Free": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "No Artificial Colours": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "No Artificial Flavours": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "No Preservatives": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "No Artificial Sweeteners": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "Cocoa Certification": {
+        "value": "Rainforest Alliance, Fair Trade, Cocoa Horizons",
+        "source": "explicit"
+      },
+      "No Monkey Harvesting for Coconut": {
+        "value": "Executive Declaration required",
+        "source": "explicit"
+      },
+      "Soy Certification": {
+        "value": "RTRS Mass Balance Certificate, ISCC+ Mass Balance Certificate, or equivalent",
+        "source": "explicit"
+      },
+      "Coffee, Tea, Hazelnut Certification": {
+        "value": "Rainforest Alliance or Fairtrade Mass Balance Certificate",
+        "source": "explicit"
+      }
+    },
+    "inferred": {}
+  },
+  "ingredients_composition": {
+    "explicit": {
+      "Cocoa Solids": {
+        "value": "26%, 28%, 30%",
+        "source": "explicit"
+      },
+      "Milk Solids (Non-fat)": {
+        "value": "Compliant with Codex Standard for Milk Chocolate",
+        "source": "explicit"
+      },
+      "Fat Content": {
+        "value": "Compliant with Codex Standard for Milk Chocolate",
+        "source": "explicit"
+      },
+      "Sugar Content": {
+        "value": "Compliant with Codex Standard for Milk Chocolate",
+        "source": "explicit"
+      },
+      "Additives": {
+        "value": "Emulsifiers (e.g., lecithin), Natural flavourings, Vegetable oil, PGPR (e476) below 5g/kg",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Vegetable Oil Compliance": {
+        "value": "Permissible amounts as per FSC guidelines",
+        "source": "inferred",
+        "note": "Vegetable oil usage is explicitly mentioned with regulatory compliance."
+      }
+    }
+  },
+  "legal_specifications": {
+    "explicit": {
+      "Codex Standard Compliance": {
+        "value": "Milk Chocolate",
+        "source": "explicit"
+      },
+      "Export Market Compliance": {
+        "value": "China",
+        "source": "explicit"
+      },
+      "No Artificial Trans Fats": {
+        "value": "Required",
+        "source": "explicit"
+      },
+      "No High-Fructose Corn Syrup": {
+        "value": "Required",
+        "source": "explicit"
+      },
+      "Irradiation Free": {
+        "value": "Required",
+        "source": "explicit"
+      },
+      "No Carmine, Annatto, Titanium Dioxide": {
+        "value": "Required",
+        "source": "explicit"
+      },
+      "Processed Eucheuma Seaweed Restriction": {
+        "value": "INS 407a not permitted; use Carrageenan (INS 407)",
+        "source": "explicit"
+      },
+      "Dangerous Goods Flavour Carriers": {
+        "value": "Preference to avoid ethanol-based carriers",
+        "source": "explicit"
+      }
+    },
+    "inferred": {}
+  },
+  "nutritional_values": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "packaging_information": {
+    "explicit": {
+      "Packaging Format": {
+        "value": "15kg bags/boxes",
+        "source": "explicit"
+      },
+      "Storage Conditions": {
+        "value": "Temperature control between 15\u2103 to 20\u2103",
+        "source": "explicit"
+      },
+      "Shelf Life (Raw Material)": {
+        "value": "Minimum 12 months",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Packaging Durability": {
+        "value": "Must withstand transportation and storage conditions",
+        "source": "inferred",
+        "note": "Packaging requirements imply durability for handling and storage."
+      }
+    }
+  },
+  "sales_commercial": {
+    "explicit": {
+      "Indicative Volumes": {
+        "value": "66 Tonne Year 1, 10% more for Year 2",
+        "source": "explicit"
+      },
+      "Launch Date": {
+        "value": "1-Sep-26",
+        "source": "explicit"
+      }
+    },
+    "inferred": {}
+  },
+  "technical_specifications": {
+    "explicit": {
+      "Viscosity": {
+        "value": "To be determined during sample assessments",
+        "source": "explicit"
+      },
+      "Processing Parameters": {
+        "value": "40-60\u2103 in kibble melter for 90mins per 1000kg; Ice Cream at -37.5\u2103 during dipping; wrapping time 118 seconds (single index), 60 seconds (double index)",
+        "source": "explicit"
+      },
+      "Texture": {
+        "value": "Smooth, crisp snap when bitten into, not chewy or soft",
+        "source": "explicit"
+      },
+      "Appearance": {
+        "value": "Medium to light brown typical of milk chocolate",
+        "source": "explicit"
+      },
+      "Flavour Profile": {
+        "value": "Sweet, creamy, balanced with cocoa-milk note, slight caramel or vanilla undertones",
+        "source": "explicit"
+      },
+      "Aroma": {
+        "value": "Typical of milk chocolate",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Freezer Stability": {
+        "value": "Stable for frozen applications",
+        "source": "inferred",
+        "note": "Explicitly mentioned as a requirement for the chocolate coating."
+      },
+      "Handling Requirements": {
+        "value": "Must maintain softness during wrapping to prevent breakage",
+        "source": "inferred",
+        "note": "Processing requirements specify handling characteristics during wrapping."
+      },
+      "Functional Properties": {
+        "value": "Excellent melting and coating characteristics; ability to hold inclusions",
+        "source": "inferred",
+        "note": "Explicitly stated functional requirements for enrobing process."
+      }
+    }
+  }
+}

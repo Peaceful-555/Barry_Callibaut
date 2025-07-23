@@ -1,0 +1,106 @@
+{
+  "allergen_items": {
+    "explicit": {},
+    "inferred": {
+      "Milk": {
+        "value": "Present",
+        "source": "inferred",
+        "note": "White milk-based filling implies presence of milk as an allergen."
+      }
+    }
+  },
+  "claims_certifications": {
+    "explicit": {},
+    "inferred": {
+      "No Added Sugar": {
+        "value": "Claimed",
+        "source": "inferred",
+        "note": "Customer explicitly mentioned 'without added sugar' for fillings."
+      },
+      "High Protein": {
+        "value": "<20%",
+        "source": "inferred",
+        "note": "Customer mentioned preference for high protein content but not mandatory."
+      }
+    }
+  },
+  "ingredients_composition": {
+    "explicit": {},
+    "inferred": {
+      "White Milk Filling": {
+        "value": "Primary ingredient",
+        "source": "inferred",
+        "note": "Customer prioritized white milk-based filling."
+      },
+      "Butter Cookies": {
+        "value": "Inclusions",
+        "source": "inferred",
+        "note": "Customer mentioned white filling with inclusions such as butter cookies."
+      },
+      "Lotus Cream": {
+        "value": "Potential filling option",
+        "source": "inferred",
+        "note": "Customer mentioned Lotus Cream filling as a potential option."
+      }
+    }
+  },
+  "legal_specifications": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "nutritional_values": {
+    "explicit": {},
+    "inferred": {
+      "Protein Content": {
+        "value": "<20%",
+        "source": "inferred",
+        "note": "Customer mentioned preference for high protein content but not mandatory."
+      },
+      "No Added Sugar": {
+        "value": "Claimed",
+        "source": "inferred",
+        "note": "Customer explicitly mentioned 'without added sugar' for fillings."
+      }
+    }
+  },
+  "packaging_information": {
+    "explicit": {},
+    "inferred": {
+      "Drum with Thick Inliner": {
+        "value": "Packaging format",
+        "source": "inferred",
+        "note": "Multiple references to drum with thick inliner for product delivery."
+      }
+    }
+  },
+  "sales_commercial": {
+    "explicit": {},
+    "inferred": {
+      "MOQ": {
+        "value": "4.5MT",
+        "source": "inferred",
+        "note": "Customer ordered 4.5MT as the first delivery for testing."
+      },
+      "Indicative Volumes": {
+        "value": "4.5MT, 9MT, 11MT",
+        "source": "inferred",
+        "note": "Customer placed orders with these volumes across different variants."
+      }
+    }
+  },
+  "technical_specifications": {
+    "explicit": {},
+    "inferred": {
+      "Viscosity": {
+        "value": "Version 7",
+        "source": "inferred",
+        "note": "Customer confirmed preference for viscosity Version 7."
+      },
+      "White Milk Filling": {
+        "value": "Primary ingredient",
+        "source": "inferred",
+        "note": "Customer prioritized white milk-based filling."
+      }
+    }
+  }
+}

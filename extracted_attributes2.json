@@ -1,0 +1,228 @@
+{
+  "Brand": {
+    "value": "Murray St",
+    "source": "explicit"
+  },
+  "Product Type": {
+    "value": "Milk chocolate coating for enrobing ice cream sticks and sandwiches",
+    "source": "explicit"
+  },
+  "Competitor Products": {
+    "value": "Connoisseur Classic Vanilla Ice Cream 4 Pack | 400mL",
+    "source": "explicit"
+  },
+  "Claims": {
+    "value": "Compliant with Codex Standard for Milk Chocolate",
+    "source": "explicit"
+  },
+  "Target Shelf Life (Finished Goods)": {
+    "value": "2 years",
+    "source": "explicit"
+  },
+  "Raw Material Type": {
+    "value": "Food Ingredient",
+    "source": "explicit"
+  },
+  "Raw Material Description": {
+    "value": "Milk Chocolate Coating",
+    "source": "explicit"
+  },
+  "Raw Material Format": {
+    "value": "Kibble/button/chips",
+    "source": "explicit"
+  },
+  "Indicative Volumes": {
+    "value": "66 Tonne Year 1, 10% more for Year 2",
+    "source": "explicit"
+  },
+  "Appearance": {
+    "value": "Medium to light brown typical of milk chocolate",
+    "source": "explicit"
+  },
+  "Colour (Pantone Ref #)": {
+    "value": "35-45 RLU",
+    "source": "explicit"
+  },
+  "Flavour": {
+    "value": "Authentic milk chocolate flavour profile, sweet, creamy, balanced with cocoa-milk note, slight natural caramel or vanilla undertones, lingering chocolate flavour, no off-flavours",
+    "source": "explicit"
+  },
+  "Aroma": {
+    "value": "Typical of milk chocolate",
+    "source": "explicit"
+  },
+  "Texture": {
+    "value": "Smooth, crisp snap when bitten into, not chewy or soft",
+    "source": "explicit"
+  },
+  "Viscosity": {
+    "value": "To be determined during sample assessments",
+    "source": "explicit"
+  },
+  "Cocoa Solids": {
+    "value": "26%, 28%, 30% (to be assessed)",
+    "source": "explicit"
+  },
+  "Milk Solids (Non-fat)": {
+    "value": "Compliant with Codex Standard for Milk Chocolate",
+    "source": "explicit"
+  },
+  "Fat Content": {
+    "value": "Compliant with Codex Standard for Milk Chocolate",
+    "source": "explicit"
+  },
+  "Sugar Content": {
+    "value": "Compliant with Codex Standard for Milk Chocolate",
+    "source": "explicit"
+  },
+  "Additives": {
+    "value": "Emulsifiers (e.g., lecithin), natural flavourings, vegetable oil (permissible amounts as per FSC guidelines), PGPR (below 5g/kg in final blend)",
+    "source": "explicit"
+  },
+  "Dosage Rate in Product": {
+    "value": "Approx 20g/stick",
+    "source": "explicit"
+  },
+  "Sample Quantity Required": {
+    "value": "2kg per variant initially",
+    "source": "explicit"
+  },
+  "Export Markets": {
+    "value": "Compliant with China",
+    "source": "explicit"
+  },
+  "Processing Requirements": {
+    "value": "Withstand enrobing, wrapping, and boxing; maintain softness during wrapping to avoid sharding",
+    "source": "explicit"
+  },
+  "Processing Parameters": {
+    "value": "40-60\u2103 in kibble melter for 90 mins per 1000kg; ice cream at -37.5\u2103 during dipping; 118 seconds single index, 60 seconds double index",
+    "source": "explicit"
+  },
+  "Launch Date": {
+    "value": "1-Sep-26",
+    "source": "explicit"
+  },
+  "Packaging Format": {
+    "value": "15kg bags/boxes",
+    "source": "explicit"
+  },
+  "Storage Conditions": {
+    "value": "Temperature control between 15\u2103 to 20\u2103",
+    "source": "explicit"
+  },
+  "Shelf Life (Raw Material)": {
+    "value": "Minimum 12 months",
+    "source": "explicit"
+  },
+  "Halal Certified": {
+    "value": "Yes",
+    "source": "explicit"
+  },
+  "Kosher Certified": {
+    "value": "No",
+    "source": "explicit"
+  },
+  "Vegetarian": {
+    "value": "Yes",
+    "source": "explicit"
+  },
+  "RSPO Palm Oil": {
+    "value": "Yes (Segregated as a minimum)",
+    "source": "explicit"
+  },
+  "GMO Free": {
+    "value": "Yes",
+    "source": "explicit"
+  },
+  "No Artificial Colours": {
+    "value": "Yes",
+    "source": "explicit"
+  },
+  "No Artificial Flavours": {
+    "value": "Yes",
+    "source": "explicit"
+  },
+  "No Preservatives": {
+    "value": "Yes",
+    "source": "explicit"
+  },
+  "No Artificial Sweeteners": {
+    "value": "Yes",
+    "source": "explicit"
+  },
+  "Cocoa Certification": {
+    "value": "Rainforest Alliance, Fair Trade, or Cocoa Horizons",
+    "source": "explicit"
+  },
+  "Permitted Allergens": {
+    "value": "Milk, Soy",
+    "source": "explicit"
+  },
+  "Standard Plate Count": {
+    "value": "Max 20,000 cfu/g",
+    "source": "explicit"
+  },
+  "Salmonella": {
+    "value": "Absent in 25g",
+    "source": "explicit"
+  },
+  "Enterobacteriaceae": {
+    "value": "Max 10 cfu/g",
+    "source": "explicit"
+  },
+  "Foreign Matter": {
+    "value": "Absent",
+    "source": "explicit"
+  },
+  "Ingredient Restrictions": {
+    "value": "No artificial trans fats, no partially hydrogenated oils, no high-fructose corn syrup, no carmine, no annatto, no titanium dioxide, no artificial colours as defined by Natcol, no processed Eucheuma seaweed (INS 407a)",
+    "source": "explicit"
+  },
+  "Palm Oil Requirements": {
+    "value": "RSPO Certified (Segregated as a minimum), entire supply chain RSPO Certified by 2027",
+    "source": "explicit"
+  },
+  "Contact (R&D)": {
+    "value": {
+      "Name": "Michelle Gardiner",
+      "Title": "Product Development Technologist",
+      "Email": "Michelle.Gardiner@bulla.com.au",
+      "Phone": "0457 157 748",
+      "Address": "91-149 Forest Street, Colac, VIC 3250, Australia"
+    },
+    "source": "explicit"
+  },
+  "Contact (Procurement)": {
+    "value": {
+      "Name": "Olivia Li",
+      "Title": "Sourcing Manager Direct Materials",
+      "Email": "Olivia.Li@Bulla.com.au",
+      "Phone": "0400 084 756",
+      "Address": "15 Swann Drive, Derrimut, VIC 3030, Australia"
+    },
+    "source": "explicit"
+  },
+  "Mandatory Requirements for Acceptance": {
+    "value": "AFGC PIF 6.0 completed, no irradiation, no dangerous goods flavours, sodium citrate must be tri-sodium citrate, no processed Eucheuma seaweed (INS 407a), RSPO Certified Palm Oil, Cocoa Certification (RA, FT, CH), no monkey harvesting for coconut, RTRS/ISCC+ for South American soy",
+    "source": "explicit"
+  },
+  "Freezer Stability": {
+    "value": "Stable for frozen applications",
+    "source": "explicit"
+  },
+  "Snap Characteristic": {
+    "value": "Crisp snap when bitten into",
+    "source": "explicit"
+  },
+  "Flowability": {
+    "value": "Must flow well for enrobing process",
+    "source": "inferred",
+    "note": "Necessary for enrobing application"
+  },
+  "Packaging Durability": {
+    "value": "Must withstand wrapping and boxing without sharding",
+    "source": "inferred",
+    "note": "Required for handling during production"
+  }
+}

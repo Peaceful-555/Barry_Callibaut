@@ -1,0 +1,120 @@
+{
+  "allergen_items": {
+    "explicit": {},
+    "inferred": {
+      "Palm-Free": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Customer explicitly requested 'no palm' in the coating."
+      }
+    }
+  },
+  "claims_certifications": {
+    "explicit": {
+      "Natural Ingredients": {
+        "value": "Yes",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "GMI Compliance": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Customer requested coatings to be GMI compliant."
+      }
+    }
+  },
+  "ingredients_composition": {
+    "explicit": {
+      "Fat Content": {
+        "value": "57%",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Fat-Based Coating": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Customer confirmed the coating is fat-based."
+      },
+      "No Coloring": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Selected recipe explicitly states 'no coloring'."
+      }
+    }
+  },
+  "legal_specifications": {
+    "explicit": {},
+    "inferred": {
+      "Legal Declaration Required": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Export and compliance with GMI standards imply legal declarations."
+      }
+    }
+  },
+  "nutritional_values": {
+    "explicit": {},
+    "inferred": {
+      "High Fat Content": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "57% fat content indicates high fat composition."
+      }
+    }
+  },
+  "packaging_information": {
+    "explicit": {
+      "Packaging Format": {
+        "value": "Buckets",
+        "source": "explicit"
+      }
+    },
+    "inferred": {}
+  },
+  "sales_commercial": {
+    "explicit": {
+      "Volume": {
+        "value": "10-15T",
+        "source": "explicit"
+      },
+      "Sampling Quantity": {
+        "value": "100-200kg",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "High Margin": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Customer explicitly mentioned high margin for General Mills."
+      },
+      "Launch Timeline": {
+        "value": "Feb. 2024",
+        "source": "inferred",
+        "note": "Customer provided launch timeline explicitly."
+      }
+    }
+  },
+  "technical_specifications": {
+    "explicit": {
+      "Enrobing Application": {
+        "value": "Yes",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Freezer Stability": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Ice cream coatings imply freezer stability requirement."
+      },
+      "Processing Characteristics": {
+        "value": "Suitable for enrobing",
+        "source": "inferred",
+        "note": "Customer confirmed enrobing as the application method."
+      }
+    }
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "Project Name": {
+    "value": "Murray St Chunky Sticks",
+    "source": "explicit"
+  },
+  "Product Type": {
+    "value": "Ice Cream Sticks and Sandwiches",
+    "source": "explicit"
+  },
+  "Claims": {
+    "value": "Compliant with Codex Standard for Milk Chocolate",
+    "source": "explicit"
+  },
+  "Shelf Life (Finished Goods)": {
+    "value": "2 Years",
+    "source": "explicit"
+  },
+  "Shelf Life (Raw Material)": {
+    "value": "Minimum 12 months",
+    "source": "explicit"
+  },
+  "Raw Material Type": {
+    "value": "Milk Chocolate Coating",
+    "source": "explicit"
+  },
+  "Raw Material Format": {
+    "value": "Kibble/button/chips",
+    "source": "explicit"
+  },
+  "Indicative Volumes": {
+    "value": "66 Tonne Year 1, 10% more for Year 2",
+    "source": "explicit"
+  },
+  "Appearance": {
+    "value": "Medium to light brown typical of milk chocolate",
+    "source": "explicit"
+  },
+  "Colour (Pantone Ref #)": {
+    "value": "35-45 RLU",
+    "source": "explicit"
+  },
+  "Flavour Profile": {
+    "value": "Sweet, creamy, balanced with cocoa-milk note, slight natural caramel or vanilla undertones, lingering chocolate flavour with good intensity",
+    "source": "explicit"
+  },
+  "Aroma": {
+    "value": "Typical of milk chocolate",
+    "source": "explicit"
+  },
+  "Texture": {
+    "value": "Smooth, crisp snap when bitten into, not chewy or soft",
+    "source": "explicit"
+  },
+  "Cocoa Solids": {
+    "value": "26%, 28%, 30% (to be assessed)",
+    "source": "explicit"
+  },
+  "Milk Solids (Non-fat)": {
+    "value": "Compliant with Codex Standard for Milk Chocolate",
+    "source": "explicit"
+  },
+  "Fat Content": {
+    "value": "Compliant with Codex Standard for Milk Chocolate",
+    "source": "explicit"
+  },
+  "Sugar Content": {
+    "value": "Compliant with Codex Standard for Milk Chocolate",
+    "source": "explicit"
+  },
+  "Additives": {
+    "value": "Emulsifiers (e.g., lecithin), natural flavourings, vegetable oil, PGPR (below 5g/kg or 0.5%)",
+    "source": "explicit"
+  },
+  "Dosage Rate": {
+    "value": "Approx 20g/stick",
+    "source": "explicit"
+  },
+  "Sample Quantity Required": {
+    "value": "2kg per variant initially",
+    "source": "explicit"
+  },
+  "Export Markets": {
+    "value": "Compliant with China",
+    "source": "explicit"
+  },
+  "Processing Requirements": {
+    "value": "Must withstand enrobing, wrapping, and boxing; maintain softness during wrapping to avoid breaking",
+    "source": "explicit"
+  },
+  "Processing Parameters": {
+    "value": "40-60\u2103 in kibble melter for 90 mins per 1000kg; Ice cream at -37.5\u2103 during dipping; 118 seconds single index, 60 seconds double index wrapping time",
+    "source": "explicit"
+  },
+  "Packaging Format": {
+    "value": "15kg bags/boxes",
+    "source": "explicit"
+  },
+  "Storage Conditions": {
+    "value": "Temperature control between 15\u2103 to 20\u2103",
+    "source": "explicit"
+  },
+  "Certifications": {
+    "value": "Halal Certified, RSPO Palm Oil (Segregated), GMO Free, Cocoa Certification (Rainforest Alliance, Fair Trade, Cocoa Horizons)",
+    "source": "explicit"
+  },
+  "Ingredient Restrictions": {
+    "value": "No artificial trans fats, partially hydrogenated oils, high-fructose corn syrup, artificial colours, artificial flavours, preservatives, artificial sweeteners",
+    "source": "explicit"
+  },
+  "Allergens": {
+    "value": "Milk, Soy",
+    "source": "explicit"
+  },
+  "Microbiological Parameters": {
+    "value": "Standard Plate Count Max 20,000 cfu/g, Salmonella absent in 25g, Enterobacteriaceae Max 10 cfu/g",
+    "source": "explicit"
+  },
+  "Foreign Matter": {
+    "value": "Absent",
+    "source": "explicit"
+  },
+  "Vegetable Fat Content": {
+    "value": "Permissible amounts as per FSC guidelines",
+    "source": "inferred",
+    "note": "Vegetable oil and PGPR limits imply regulated vegetable fat content"
+  },
+  "Freezer Stability": {
+    "value": "Required for frozen applications",
+    "source": "inferred",
+    "note": "Product is intended for enrobing ice cream sticks and sandwiches"
+  },
+  "Snap Texture": {
+    "value": "Crisp snap when bitten into",
+    "source": "inferred",
+    "note": "Explicitly mentioned as a desired characteristic for consumption"
+  },
+  "Flowability": {
+    "value": "To be determined during sample assessments",
+    "source": "explicit"
+  },
+  "Regulatory Compliance": {
+    "value": "Codex Standard for Milk Chocolate, AFGC PIF 6.0, FSC guidelines",
+    "source": "explicit"
+  },
+  "Palm Oil Requirements": {
+    "value": "RSPO Certified (Segregated at minimum by 2027)",
+    "source": "explicit"
+  },
+  "Cocoa Certification": {
+    "value": "Rainforest Alliance, Fair Trade, Cocoa Horizons",
+    "source": "explicit"
+  },
+  "Contact Information (R&D)": {
+    "value": {
+      "Name": "Michelle Gardiner",
+      "Title": "Product Development Technologist",
+      "Email": "Michelle.Gardiner@bulla.com.au",
+      "Phone": "0457 157 748",
+      "Address": "91-149 Forest Street, Colac, VIC 3250, Australia"
+    },
+    "source": "explicit"
+  },
+  "Contact Information (Procurement)": {
+    "value": {
+      "Name": "Olivia Li",
+      "Title": "Sourcing Manager Direct Materials",
+      "Email": "Olivia.Li@Bulla.com.au",
+      "Phone": "0400 084 756",
+      "Address": "15 Swann Drive, Derrimut, VIC 3030, Australia"
+    },
+    "source": "explicit"
+  }
+}

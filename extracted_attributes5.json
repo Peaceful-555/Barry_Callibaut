@@ -1,0 +1,248 @@
+{
+  "allergen_items": {
+    "explicit": {
+      "Permitted Allergens": {
+        "value": [
+          "Milk",
+          "Soy"
+        ],
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Cross-Contamination Risk": {
+        "value": [
+          "Eggs",
+          "Nuts",
+          "Coconut",
+          "Hazelnut"
+        ],
+        "source": "inferred",
+        "note": "Cross-contamination risk inferred from certifications and allergen-free requirements."
+      }
+    }
+  },
+  "claims_certifications": {
+    "explicit": {
+      "Halal Certified": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "RSPO Palm Oil Certified": {
+        "value": "Yes (Segregated as a minimum)",
+        "source": "explicit"
+      },
+      "GMO Free": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "Cocoa Certification": {
+        "value": [
+          "Rainforest Alliance",
+          "Fair Trade",
+          "Cocoa Horizons"
+        ],
+        "source": "explicit"
+      },
+      "Vegetarian": {
+        "value": "Yes",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "No Artificial Trans Fats": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Inferred from mandatory requirements for production acceptance."
+      },
+      "No High-Fructose Corn Syrup": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Inferred from mandatory requirements for production acceptance."
+      },
+      "No Artificial Colours": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Inferred from restrictions and certifications section."
+      },
+      "No Artificial Flavours": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Inferred from restrictions and certifications section."
+      },
+      "No Preservatives": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Inferred from restrictions and certifications section."
+      },
+      "No Artificial Sweeteners": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Inferred from restrictions and certifications section."
+      }
+    }
+  },
+  "ingredients_composition": {
+    "explicit": {
+      "Cocoa Solids": {
+        "value": [
+          "26%",
+          "28%",
+          "30%"
+        ],
+        "source": "explicit"
+      },
+      "Milk Solids (Non-fat)": {
+        "value": "Compliant with Codex Standard for Milk Chocolate",
+        "source": "explicit"
+      },
+      "Fat Content": {
+        "value": "Compliant with Codex Standard for Milk Chocolate",
+        "source": "explicit"
+      },
+      "Sugar Content": {
+        "value": "Compliant with Codex Standard for Milk Chocolate",
+        "source": "explicit"
+      },
+      "Additives": {
+        "value": [
+          "Emulsifiers (e.g., lecithin)",
+          "Natural flavourings",
+          "Vegetable oil",
+          "PGPR (e476)"
+        ],
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Vegetable Fat Content": {
+        "value": "Present",
+        "source": "inferred",
+        "note": "Inferred from PGPR usage and vegetable oil compliance."
+      },
+      "Emulsifiers": {
+        "value": "Present",
+        "source": "inferred",
+        "note": "Inferred from lecithin usage."
+      }
+    }
+  },
+  "legal_specifications": {
+    "explicit": {
+      "Codex Compliance": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "Export Compliance": {
+        "value": "China",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Legal Declaration Required": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Inferred from export compliance and mandatory requirements for production acceptance."
+      }
+    }
+  },
+  "nutritional_values": {
+    "explicit": {},
+    "inferred": {
+      "Energy Density": {
+        "value": "High",
+        "source": "inferred",
+        "note": "Inferred from milk chocolate composition and fat content."
+      }
+    }
+  },
+  "packaging_information": {
+    "explicit": {
+      "Packaging Format": {
+        "value": [
+          "15kg bags",
+          "15kg boxes"
+        ],
+        "source": "explicit"
+      },
+      "Storage Conditions": {
+        "value": "Temperature control between 15\u2103 to 20\u2103",
+        "source": "explicit"
+      },
+      "Shelf Life (Raw Material)": {
+        "value": "Minimum 12 months",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Sustainable Packaging Compliance": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Inferred from RSPO certification requirements."
+      }
+    }
+  },
+  "sales_commercial": {
+    "explicit": {
+      "Indicative Volumes": {
+        "value": "66 Tonne Year 1, 10% more for Year 2",
+        "source": "explicit"
+      },
+      "Launch Date": {
+        "value": "1-Sep-26",
+        "source": "explicit"
+      },
+      "MOQ": {
+        "value": "Not explicitly stated",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Market Target": {
+        "value": "China",
+        "source": "inferred",
+        "note": "Inferred from export compliance requirements."
+      }
+    }
+  },
+  "technical_specifications": {
+    "explicit": {
+      "Viscosity": {
+        "value": "To be determined during sample assessments",
+        "source": "explicit"
+      },
+      "Processing Parameters": {
+        "value": {
+          "Melting Temperature": "40-60\u2103 in kibble melter for 90mins per 1000kg",
+          "Ice Cream Temperature": "-37.5\u2103 when dipped",
+          "Wrapping Time": [
+            "118 seconds (single index)",
+            "60 seconds (double index)"
+          ]
+        },
+        "source": "explicit"
+      },
+      "Texture": {
+        "value": "Smooth, crisp snap when bitten into, not chewy or soft",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Freezer Stability": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Inferred from frozen application requirements."
+      },
+      "Snap Texture": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Inferred from texture description and enrobing requirements."
+      },
+      "Flowability": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Inferred from enrobing process requirements."
+      }
+    }
+  }
+}
