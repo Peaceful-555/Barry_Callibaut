@@ -1,0 +1,235 @@
+{
+  "allergen_items": {
+    "explicit": {
+      "Permitted_Allergens": {
+        "value": "Milk, Soy",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Contains_Milk_Proteins": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Milk is listed as a permitted allergen."
+      },
+      "Contains_Soy_Proteins": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Soy is listed as a permitted allergen."
+      },
+      "Contains_Egg_Products": {
+        "value": "No",
+        "source": "inferred",
+        "note": "Eggs are not mentioned as an allergen."
+      },
+      "Contains_Peanuts": {
+        "value": "No",
+        "source": "inferred",
+        "note": "Peanuts are not mentioned as an allergen."
+      }
+    }
+  },
+  "claims_certifications": {
+    "explicit": {
+      "Halal_Certified": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "RSPO_Palm_Oil": {
+        "value": "Yes (Segregated as a minimum)",
+        "source": "explicit"
+      },
+      "GMO_Free": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "No_Artificial_Colours": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "No_Artificial_Flavours": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "No_Preservatives": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "Cocoa_Certification": {
+        "value": "Rainforest Alliance, Fair Trade, Cocoa Horizons",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Suitable_For_Vegetarians": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Explicitly mentioned under certifications."
+      },
+      "Kosher_Certificate": {
+        "value": "No",
+        "source": "inferred",
+        "note": "Kosher certification is explicitly marked as 'No'."
+      },
+      "Mass_Balance_Certification": {
+        "value": "RTRS, ISCC+, or equivalent for soy",
+        "source": "inferred",
+        "note": "Soy certification requirements are specified."
+      }
+    }
+  },
+  "ingredients_composition": {
+    "explicit": {
+      "Cocoa_Solids": {
+        "value": "26%, 28%, 30%",
+        "source": "explicit"
+      },
+      "Milk_Solids_Non_Fat": {
+        "value": "Compliant with Codex Standard for Milk Chocolate",
+        "source": "explicit"
+      },
+      "Fat_Content": {
+        "value": "Compliant with Codex Standard for Milk Chocolate",
+        "source": "explicit"
+      },
+      "Sugar_Content": {
+        "value": "Compliant with Codex Standard for Milk Chocolate",
+        "source": "explicit"
+      },
+      "Emulsifiers": {
+        "value": "Lecithin, PGPR (E476) below 5g/kg",
+        "source": "explicit"
+      },
+      "Vegetable_Oil": {
+        "value": "Permissible amounts as per FSC guidelines",
+        "source": "explicit"
+      },
+      "Natural_Flavourings": {
+        "value": "Yes",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Contains_Hydrogenated": {
+        "value": "No",
+        "source": "inferred",
+        "note": "Explicitly stated that no artificial trans fats or partially hydrogenated oils are allowed."
+      },
+      "Contains_Palm_Oil": {
+        "value": "Yes (RSPO Certified)",
+        "source": "inferred",
+        "note": "Palm oil must be RSPO certified."
+      },
+      "Contains_Cocoa_Butter": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Cocoa butter is implied as part of milk chocolate composition."
+      }
+    }
+  },
+  "legal_specifications": {
+    "explicit": {
+      "Codex_Compliance": {
+        "value": "Milk Chocolate",
+        "source": "explicit"
+      },
+      "Export_Markets": {
+        "value": "China",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Legal_Denomination": {
+        "value": "Milk Chocolate Coating",
+        "source": "inferred",
+        "note": "Product is described as milk chocolate coating for enrobing."
+      },
+      "Shelf_Life": {
+        "value": "12 months (raw material), 2 years (finished goods)",
+        "source": "inferred",
+        "note": "Explicit shelf life requirements are stated."
+      }
+    }
+  },
+  "nutritional_values": {
+    "explicit": {},
+    "inferred": {
+      "Sugars_g": {
+        "value": "Compliant with Codex Standard for Milk Chocolate",
+        "source": "inferred",
+        "note": "Sugar content is specified to meet Codex standards."
+      },
+      "Total_Fat_g": {
+        "value": "Compliant with Codex Standard for Milk Chocolate",
+        "source": "inferred",
+        "note": "Fat content is specified to meet Codex standards."
+      }
+    }
+  },
+  "packaging_information": {
+    "explicit": {
+      "Packaging_Format": {
+        "value": "15kg bags/boxes",
+        "source": "explicit"
+      },
+      "Storage_Conditions": {
+        "value": "Temperature control between 15\u2103 to 20\u2103",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Packaging_Type": {
+        "value": "Bag/Box",
+        "source": "inferred",
+        "note": "Explicitly mentioned as packaging format."
+      }
+    }
+  },
+  "sales_commercial": {
+    "explicit": {
+      "Indicative_Volumes": {
+        "value": "66 Tonne Year 1, 10% more for Year 2",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Minimum_Order_Quantity": {
+        "value": "Not specified",
+        "source": "inferred",
+        "note": "MOQ is not explicitly mentioned but implied as part of supplier requirements."
+      }
+    }
+  },
+  "technical_specifications": {
+    "explicit": {
+      "Viscosity": {
+        "value": "To be determined during sample assessments",
+        "source": "explicit"
+      },
+      "Processing_Temperature": {
+        "value": "40-60\u2103 in kibble melter",
+        "source": "explicit"
+      },
+      "Ice_Cream_Temperature": {
+        "value": "-37.5\u2103 when dipped into melted chocolate",
+        "source": "explicit"
+      },
+      "Wrapping_Time": {
+        "value": "118 seconds (single index), 60 seconds (double index)",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Snap_Texture": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Explicitly mentioned as a requirement for texture."
+      },
+      "Freezer_Stability": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Product must be stable for frozen applications."
+      }
+    }
+  }
+}

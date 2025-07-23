@@ -1,0 +1,140 @@
+{
+  "allergen_items": {
+    "explicit": {},
+    "inferred": {
+      "Contains_Milk_Proteins": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "White chocolate typically contains milk proteins."
+      },
+      "Contains_Soy_Proteins": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Soy lecithin is commonly used as an emulsifier in white chocolate."
+      }
+    }
+  },
+  "claims_certifications": {
+    "explicit": {},
+    "inferred": {
+      "Suitable_For_Vegetarians": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "White chocolate is generally suitable for vegetarians unless stated otherwise."
+      }
+    }
+  },
+  "ingredients_composition": {
+    "explicit": {},
+    "inferred": {
+      "Components_Specifications": {
+        "value": "White chocolate, milk solids, cocoa butter, sugar, emulsifier (soy lecithin), natural vanilla extract",
+        "source": "inferred",
+        "note": "Typical composition of white chocolate products."
+      },
+      "Cocoa_Butter_Content": {
+        "value": "High",
+        "source": "inferred",
+        "note": "White chocolate products are known for their high cocoa butter content."
+      }
+    }
+  },
+  "legal_specifications": {
+    "explicit": {},
+    "inferred": {
+      "Legislation": {
+        "value": "Canadian Tariffs",
+        "source": "inferred",
+        "note": "Document mentions tariffs affecting product approval in Canada."
+      },
+      "Legal_Denomination": {
+        "value": "White Chocolate",
+        "source": "inferred",
+        "note": "Products are described as white chocolate or white chocolate chips."
+      }
+    }
+  },
+  "nutritional_values": {
+    "explicit": {},
+    "inferred": {
+      "Total_Fat_g": {
+        "value": "High",
+        "source": "inferred",
+        "note": "White chocolate typically has a high fat content due to cocoa butter."
+      },
+      "Sugars_g": {
+        "value": "High",
+        "source": "inferred",
+        "note": "White chocolate is known for its high sugar content."
+      }
+    }
+  },
+  "packaging_information": {
+    "explicit": {
+      "Packaging_Info": {
+        "value": "4 kg cases, 10 lbs cases, 22 lbs boxes, 30 lbs boxes",
+        "source": "explicit"
+      },
+      "Units_Per_Pallet": {
+        "value": "70-80 boxes per pallet",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Primary_Weight_Unit": {
+        "value": "kg",
+        "source": "inferred",
+        "note": "Pricing and weights are provided in kilograms."
+      },
+      "Primary_Count_Unit": {
+        "value": "cases/boxes",
+        "source": "inferred",
+        "note": "Products are packaged in cases and boxes."
+      }
+    }
+  },
+  "sales_commercial": {
+    "explicit": {
+      "Calculated_Price": {
+        "value": "$11.847/kg for White Chocolate Blossom, $11.89/kg for Ivory Decor Curl, $8.50/kg for Van Leer White Chocolate Chips",
+        "source": "explicit"
+      },
+      "Sales_Organisation": {
+        "value": "FOB St Hyacinthe",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Minimum_Order_Quantity_In_UoM": {
+        "value": "1 pallet",
+        "source": "inferred",
+        "note": "Sales are described in pallet quantities."
+      }
+    }
+  },
+  "technical_specifications": {
+    "explicit": {},
+    "inferred": {
+      "Product_Type": {
+        "value": "White Chocolate",
+        "source": "inferred",
+        "note": "Products are described as white chocolate or white chocolate chips."
+      },
+      "Base_Type": {
+        "value": "Chocolate",
+        "source": "inferred",
+        "note": "Products are chocolate-based."
+      },
+      "Moulding_Type": {
+        "value": "Blossoms, Curls, Chips",
+        "source": "inferred",
+        "note": "Products are described as blossoms, curls, and chips."
+      },
+      "Fineness_Type": {
+        "value": "Small chips (1000CT/LB, 4000CT/LB, 10000CT/LB)",
+        "source": "inferred",
+        "note": "Chip sizes are explicitly mentioned in the document."
+      }
+    }
+  }
+}

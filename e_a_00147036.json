@@ -1,0 +1,96 @@
+{
+  "allergen_items": {
+    "explicit": {},
+    "inferred": {
+      "Contains_Milk_Proteins": {
+        "value": "No",
+        "source": "inferred",
+        "note": "Pareve designation implies absence of milk proteins."
+      },
+      "Contains_Egg_Products": {
+        "value": "No",
+        "source": "inferred",
+        "note": "Pareve designation implies absence of egg products."
+      },
+      "Contains_Soy_Proteins": {
+        "value": "No",
+        "source": "inferred",
+        "note": "Pareve designation implies absence of soy proteins."
+      },
+      "Contains_Nuts_and_Almonds": {
+        "value": "No",
+        "source": "inferred",
+        "note": "Pareve designation implies absence of nuts and almonds."
+      }
+    }
+  },
+  "claims_certifications": {
+    "explicit": {},
+    "inferred": {
+      "Kosher_Certificate": {
+        "value": "Pareve",
+        "source": "inferred",
+        "note": "Pareve designation indicates kosher certification."
+      }
+    }
+  },
+  "ingredients_composition": {
+    "explicit": {},
+    "inferred": {
+      "Components_Specifications": {
+        "value": "Chocolate chips made from the same recipe as 12M chip, size adjusted to 10M.",
+        "source": "inferred",
+        "note": "Document specifies recipe consistency between 10M and 12M chips."
+      }
+    }
+  },
+  "legal_specifications": {
+    "explicit": {},
+    "inferred": {
+      "Legal_Denomination": {
+        "value": "Chocolate Chips",
+        "source": "inferred",
+        "note": "Product type and description imply legal denomination."
+      }
+    }
+  },
+  "nutritional_values": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "packaging_information": {
+    "explicit": {},
+    "inferred": {
+      "Packaging_Info": {
+        "value": "50 lb. or 30 lb. carton",
+        "source": "inferred",
+        "note": "Document mentions Kellogg's preference for packaging sizes."
+      }
+    }
+  },
+  "sales_commercial": {
+    "explicit": {},
+    "inferred": {
+      "Minimum_Order_Quantity_In_UoM": {
+        "value": "50 lb. or 30 lb. carton",
+        "source": "inferred",
+        "note": "Document suggests new SKU creation with specified carton sizes."
+      }
+    }
+  },
+  "technical_specifications": {
+    "explicit": {},
+    "inferred": {
+      "Dimensions_Count_lb_From": {
+        "value": "30 lb.",
+        "source": "inferred",
+        "note": "Document mentions 30 lb. carton as a potential packaging option."
+      },
+      "Dimensions_Count_lb_To": {
+        "value": "50 lb.",
+        "source": "inferred",
+        "note": "Document mentions 50 lb. carton as a potential packaging option."
+      }
+    }
+  }
+}

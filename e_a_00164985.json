@@ -1,0 +1,131 @@
+{
+  "allergen_items": {
+    "explicit": {},
+    "inferred": {
+      "Contains_Milk_Proteins": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Milk chocolate liquid explicitly mentioned in the brief."
+      }
+    }
+  },
+  "claims_certifications": {
+    "explicit": {},
+    "inferred": {
+      "Suitable_For_Vegetarians": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Milk chocolate typically does not contain non-vegetarian ingredients unless explicitly stated."
+      }
+    }
+  },
+  "ingredients_composition": {
+    "explicit": {},
+    "inferred": {
+      "Components_Specifications": {
+        "value": "Milk ingredients, cocoa solids, sugar, vanilla flavor",
+        "source": "inferred",
+        "note": "Milk chocolate composition typically includes these components, and vanilla flavor was mentioned in the brief."
+      },
+      "Contains_Hydrogenated": {
+        "value": "No",
+        "source": "inferred",
+        "note": "No mention of hydrogenated fats in the brief, and milk chocolate typically avoids these unless specified."
+      }
+    }
+  },
+  "legal_specifications": {
+    "explicit": {},
+    "inferred": {
+      "Legislation": {
+        "value": "FDA compliance for milk chocolate",
+        "source": "inferred",
+        "note": "Product is intended for the U.S. market, requiring FDA compliance."
+      },
+      "Legal_Denomination": {
+        "value": "Milk Chocolate",
+        "source": "inferred",
+        "note": "Milk chocolate explicitly mentioned in the brief."
+      }
+    }
+  },
+  "nutritional_values": {
+    "explicit": {},
+    "inferred": {
+      "Total_Fat_g": {
+        "value": "Approx. 30g/100g",
+        "source": "inferred",
+        "note": "Typical fat content for milk chocolate."
+      },
+      "Sugars_g": {
+        "value": "Approx. 50g/100g",
+        "source": "inferred",
+        "note": "Milk chocolate typically contains high sugar content."
+      },
+      "Protein_g": {
+        "value": "Approx. 5g/100g",
+        "source": "inferred",
+        "note": "Milk chocolate typically contains protein from milk solids."
+      }
+    }
+  },
+  "packaging_information": {
+    "explicit": {},
+    "inferred": {
+      "Packaging_Info": {
+        "value": "5-pound pail",
+        "source": "inferred",
+        "note": "Brief mentions sending a 5-pound pail for sensory evaluation."
+      }
+    }
+  },
+  "sales_commercial": {
+    "explicit": {
+      "Calculated_Price": {
+        "value": "$2.25/lb DDP",
+        "source": "explicit"
+      },
+      "Sales_Last_12_Months_Total_In_Kg": {
+        "value": "400,000 pounds",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Minimum_Order_Quantity_In_UoM": {
+        "value": "400,000 pounds",
+        "source": "inferred",
+        "note": "Volume booked for 2Q'25-4Q'25 indicates minimum order quantity."
+      }
+    }
+  },
+  "technical_specifications": {
+    "explicit": {},
+    "inferred": {
+      "Product_Type": {
+        "value": "Milk Chocolate Liquid",
+        "source": "inferred",
+        "note": "Explicitly mentioned in the brief."
+      },
+      "Base_Type": {
+        "value": "Liquid",
+        "source": "inferred",
+        "note": "Liquid format explicitly mentioned in the brief."
+      },
+      "Fineness_Type": {
+        "value": "Smooth texture",
+        "source": "inferred",
+        "note": "Feedback mentions creaminess and smoothness as desired attributes."
+      },
+      "pH_From": {
+        "value": "6.0",
+        "source": "inferred",
+        "note": "Typical pH range for milk chocolate."
+      },
+      "pH_To": {
+        "value": "7.0",
+        "source": "inferred",
+        "note": "Typical pH range for milk chocolate."
+      }
+    }
+  }
+}

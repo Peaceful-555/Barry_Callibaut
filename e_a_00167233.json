@@ -1,0 +1,114 @@
+{
+  "allergen_items": {
+    "explicit": {},
+    "inferred": {
+      "Contains_Milk_Proteins": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "White milk-based filling implies the presence of milk proteins."
+      }
+    }
+  },
+  "claims_certifications": {
+    "explicit": {},
+    "inferred": {
+      "No_Added_Sugar": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Customer explicitly requested fillings without added sugar."
+      },
+      "High_Protein": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Customer requested high protein content (<20%) as a preference."
+      }
+    }
+  },
+  "ingredients_composition": {
+    "explicit": {},
+    "inferred": {
+      "Base_Type": {
+        "value": "White milk-based filling",
+        "source": "inferred",
+        "note": "Customer's first priority is a white milk-based filling."
+      },
+      "Butter_Cookies_Inclusions": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Customer mentioned interest in white filling with inclusions like butter cookies."
+      },
+      "Lotus_Cream_Filling": {
+        "value": "Potential",
+        "source": "inferred",
+        "note": "Customer mentioned Lotus Cream filling as a potential option."
+      }
+    }
+  },
+  "legal_specifications": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "nutritional_values": {
+    "explicit": {},
+    "inferred": {
+      "Protein_Content": {
+        "value": "<20%",
+        "source": "inferred",
+        "note": "Customer requested high protein content with a preference for <20%."
+      }
+    }
+  },
+  "packaging_information": {
+    "explicit": {
+      "Packaging_Type": {
+        "value": "Drum with thick inliner",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Stronger_Thicker_Bag": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Document mentions the need for a stronger, thicker bag in the drum."
+      }
+    }
+  },
+  "sales_commercial": {
+    "explicit": {
+      "Material_Code": {
+        "value": "FMW-600-MFWS-817",
+        "source": "explicit"
+      },
+      "Customer": {
+        "value": "Nutracorp",
+        "source": "explicit"
+      },
+      "Order_Quantity": {
+        "value": "4.5MT",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Sample_Quantity": {
+        "value": "40kg",
+        "source": "inferred",
+        "note": "Document mentions a 40kg sample sent for production testing."
+      }
+    }
+  },
+  "technical_specifications": {
+    "explicit": {
+      "Viscosity_Version": {
+        "value": "Version 7",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "White_Filling_Without_Cinnamon": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Customer's first priority is a white milk-based filling without cinnamon."
+      }
+    }
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "allergen_items": {
+    "explicit": {},
+    "inferred": {
+      "Contains_Milk_Proteins": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Ice cream coatings typically contain milk proteins."
+      },
+      "Contains_Soy_Proteins": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Soy lecithin is commonly used as an emulsifier in coatings."
+      },
+      "Contains_Peanuts": {
+        "value": "No",
+        "source": "inferred",
+        "note": "No mention of peanuts or nut-based ingredients in the brief."
+      },
+      "Contains_Hydrogenated": {
+        "value": "No",
+        "source": "inferred",
+        "note": "Customer explicitly requested natural ingredients and no palm oil."
+      }
+    }
+  },
+  "claims_certifications": {
+    "explicit": {},
+    "inferred": {
+      "Suitable_For_Vegetarians": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Natural ingredients and no palm oil suggest vegetarian suitability."
+      },
+      "Natural_Ingredients": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Customer explicitly requested natural ingredients."
+      },
+      "No_Palm_Oil": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Customer explicitly requested no palm oil."
+      }
+    }
+  },
+  "ingredients_composition": {
+    "explicit": {
+      "Fat_Content": {
+        "value": "57%",
+        "source": "explicit"
+      },
+      "Caramel_Flavour": {
+        "value": "Natural caramel flavours (1-3 options)",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Emulsifier": {
+        "value": "Soy lecithin",
+        "source": "inferred",
+        "note": "Soy lecithin is commonly used in fat-based coatings."
+      },
+      "Base_Type": {
+        "value": "Fat-based coating",
+        "source": "inferred",
+        "note": "Customer confirmed the coating is fat-based."
+      }
+    }
+  },
+  "legal_specifications": {
+    "explicit": {},
+    "inferred": {
+      "Legislation": {
+        "value": "GMI compliant",
+        "source": "inferred",
+        "note": "Customer explicitly requested compliance with General Mills standards."
+      },
+      "Legal_Denomination": {
+        "value": "Caramel coating for ice cream bites",
+        "source": "inferred",
+        "note": "Product type and application inferred from the brief."
+      }
+    }
+  },
+  "nutritional_values": {
+    "explicit": {
+      "Total_Fat_g": {
+        "value": "57g per 100g",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Calories_From_Fat": {
+        "value": "High",
+        "source": "inferred",
+        "note": "57% fat content indicates high caloric contribution from fat."
+      }
+    }
+  },
+  "packaging_information": {
+    "explicit": {
+      "Packaging_Info": {
+        "value": "Buckets",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Sample_Unit": {
+        "value": "100-200kg pilot batch",
+        "source": "inferred",
+        "note": "Customer requested pilot batch quantities for testing."
+      }
+    }
+  },
+  "sales_commercial": {
+    "explicit": {
+      "Volume": {
+        "value": "10-15T",
+        "source": "explicit"
+      },
+      "Sales_Organisation": {
+        "value": "General Mills",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Indicative_Volume": {
+        "value": "High margin product",
+        "source": "inferred",
+        "note": "Customer emphasized high margin potential for General Mills."
+      }
+    }
+  },
+  "technical_specifications": {
+    "explicit": {
+      "Material_Code": {
+        "value": "YYF-A0057CAR-U37",
+        "source": "explicit"
+      },
+      "Components_Specifications": {
+        "value": "No colouring, natural caramel flavours",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Moulding_Type": {
+        "value": "Enrobing",
+        "source": "inferred",
+        "note": "Customer confirmed enrobing as the application method."
+      },
+      "Shelf_Life": {
+        "value": "Suitable for ice cream storage conditions",
+        "source": "inferred",
+        "note": "Product is intended for ice cream applications, requiring freezer stability."
+      }
+    }
+  }
+}
