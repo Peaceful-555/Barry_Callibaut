@@ -1,0 +1,88 @@
+{
+  "allergen_items": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "claims_certifications": {
+    "explicit": {
+      "Kosher": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "Halal": {
+        "value": "Yes",
+        "source": "explicit"
+      }
+    },
+    "inferred": {}
+  },
+  "ingredients_composition": {
+    "explicit": {
+      "Cocoa Powder": {
+        "value": "10-12% fat, alkalized",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Alkalizing Agent": {
+        "value": "Present",
+        "source": "inferred",
+        "note": "Alkalized cocoa powder implies the use of an alkalizing agent."
+      }
+    }
+  },
+  "legal_specifications": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "nutritional_values": {
+    "explicit": {
+      "Fat Content": {
+        "value": "10-12%",
+        "source": "explicit"
+      }
+    },
+    "inferred": {}
+  },
+  "packaging_information": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "sales_commercial": {
+    "explicit": {
+      "Supplier Number": {
+        "value": "100320-793SK",
+        "source": "explicit"
+      },
+      "Material Code": {
+        "value": "201583_Cocoa powder",
+        "source": "explicit"
+      }
+    },
+    "inferred": {}
+  },
+  "technical_specifications": {
+    "explicit": {
+      "pH Range": {
+        "value": "8.2-8.8",
+        "source": "explicit"
+      },
+      "Color": {
+        "value": "Very dark, almost black",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Product_Type": {
+        "value": "Cocoa Powder",
+        "source": "inferred",
+        "note": "The product is explicitly described as cocoa powder."
+      },
+      "Base_Type": {
+        "value": "Fat-reduced cocoa powder",
+        "source": "inferred",
+        "note": "The product is described as fat-reduced cocoa powder (10-12%)."
+      }
+    }
+  }
+}

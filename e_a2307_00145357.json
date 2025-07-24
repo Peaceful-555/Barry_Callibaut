@@ -1,0 +1,116 @@
+{
+  "allergen_items": {
+    "explicit": {
+      "Contains_Peanuts": {
+        "value": "Yes",
+        "source": "explicit"
+      }
+    },
+    "inferred": {}
+  },
+  "claims_certifications": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "ingredients_composition": {
+    "explicit": {
+      "Milk_Chocolate": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "Milk_Compounds": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "Creamy_Dairy_Notes": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "Avoid_Butyric_Notes": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "Avoid_Strong_Bitter_Flavors": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "Avoid_High_Roasted_Flavors": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "Avoid_Raw_Peanut_Flavors": {
+        "value": "Yes",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Cocoa_Butter_Content": {
+        "value": "Medium",
+        "source": "inferred",
+        "note": "Milk chocolate typically contains moderate cocoa butter content."
+      },
+      "Emulsifier": {
+        "value": "Likely Lecithin",
+        "source": "inferred",
+        "note": "Milk chocolate and compounds often use lecithin as an emulsifier."
+      }
+    }
+  },
+  "legal_specifications": {
+    "explicit": {},
+    "inferred": {
+      "Legal_Denomination": {
+        "value": "Milk Chocolate",
+        "source": "inferred",
+        "note": "Milk chocolate is explicitly mentioned as the desired product type."
+      }
+    }
+  },
+  "nutritional_values": {
+    "explicit": {},
+    "inferred": {
+      "Total_Fat_g": {
+        "value": "Moderate",
+        "source": "inferred",
+        "note": "Milk chocolate typically has moderate fat content due to cocoa butter and milkfat."
+      },
+      "Sugars_g": {
+        "value": "High",
+        "source": "inferred",
+        "note": "Milk chocolate generally contains high sugar content."
+      }
+    }
+  },
+  "packaging_information": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "sales_commercial": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "technical_specifications": {
+    "explicit": {
+      "Product_Type": {
+        "value": "Milk Chocolate Drops / Milk Compounds",
+        "source": "explicit"
+      },
+      "Flavor_Profile": {
+        "value": "Medium roast, savory, salt, low butter, caramelized notes",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Flowability": {
+        "value": "High",
+        "source": "inferred",
+        "note": "Drops and wafers are typically designed for high flowability during melting."
+      },
+      "Melting_Point": {
+        "value": "Standard for Milk Chocolate",
+        "source": "inferred",
+        "note": "Milk chocolate and compounds have a typical melting point suitable for enrobing."
+      }
+    }
+  }
+}

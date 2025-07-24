@@ -1,0 +1,56 @@
+{
+  "allergen_items": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "claims_certifications": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "ingredients_composition": {
+    "explicit": {
+      "Cocoa_Content": {
+        "value": "45%",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Cocoa_Butter_Content": {
+        "value": "inferred based on typical dark chocolate composition",
+        "source": "inferred",
+        "note": "Dark chocolate with 45% cocoa solids typically contains cocoa butter as a key ingredient."
+      }
+    }
+  },
+  "legal_specifications": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "nutritional_values": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "packaging_information": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "sales_commercial": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "technical_specifications": {
+    "explicit": {
+      "Viscosity_Comparable_To": {
+        "value": "CHD-W5029-TRN-000",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Typical_Cocoa_Content": {
+        "value": "45%",
+        "source": "inferred",
+        "note": "Customer explicitly requested a dark chocolate with approximately 45% cocoa solids."
+      }
+    }
+  }
+}

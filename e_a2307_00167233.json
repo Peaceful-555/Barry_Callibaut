@@ -1,0 +1,105 @@
+{
+  "allergen_items": {
+    "explicit": {
+      "Contains_Cinnamon": {
+        "value": "No",
+        "source": "explicit"
+      }
+    },
+    "inferred": {}
+  },
+  "claims_certifications": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "ingredients_composition": {
+    "explicit": {
+      "White_Milk_Based_Filling": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "Added_Sugar": {
+        "value": "No",
+        "source": "explicit"
+      },
+      "High_Protein_Content": {
+        "value": "<20%",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Butter_Cookies_Inclusions": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Customer mentioned white filling with inclusions (butter cookies)."
+      },
+      "Lotus_Cream_Filling": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Customer mentioned Lotus Cream filling as a potential option."
+      }
+    }
+  },
+  "legal_specifications": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "nutritional_values": {
+    "explicit": {
+      "Protein_Content": {
+        "value": "<20%",
+        "source": "explicit"
+      }
+    },
+    "inferred": {}
+  },
+  "packaging_information": {
+    "explicit": {
+      "Drum_With_Thick_Inliner": {
+        "value": "Yes",
+        "source": "explicit"
+      }
+    },
+    "inferred": {}
+  },
+  "sales_commercial": {
+    "explicit": {
+      "Final_SKU": {
+        "value": "FMW-607-MFWS-Z11",
+        "source": "explicit"
+      },
+      "Order_SKU": {
+        "value": "FMW-600-MFWS-817",
+        "source": "explicit"
+      },
+      "Test_SKU": {
+        "value": "FMW-L230769-05-817",
+        "source": "explicit"
+      },
+      "Order_Quantity_Variant_05": {
+        "value": "4500 kg",
+        "source": "explicit"
+      },
+      "Order_Quantity_Variant_07": {
+        "value": "9000 kg",
+        "source": "explicit"
+      }
+    },
+    "inferred": {}
+  },
+  "technical_specifications": {
+    "explicit": {
+      "Viscosity_Version_7": {
+        "value": "Yes",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Thicker_Bag_In_Drum": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Customer requested stronger thicker bag for drum packaging."
+      }
+    }
+  }
+}

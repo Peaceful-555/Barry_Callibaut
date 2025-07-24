@@ -1,0 +1,49 @@
+{
+  "allergen_items": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "claims_certifications": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "ingredients_composition": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "legal_specifications": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "nutritional_values": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "packaging_information": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "sales_commercial": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "technical_specifications": {
+    "explicit": {
+      "Moulding_Type": {
+        "value": "drops",
+        "source": "explicit"
+      },
+      "Product_Type": {
+        "value": "small chocolate drops",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Application": {
+        "value": "HoReCa (Hotel, Restaurant, Catering) ice cream topping",
+        "source": "inferred",
+        "note": "The brief mentions use for ice cream in HoReCa."
+      }
+    }
+  }
+}

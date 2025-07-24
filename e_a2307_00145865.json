@@ -1,0 +1,58 @@
+{
+  "allergen_items": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "claims_certifications": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "ingredients_composition": {
+    "explicit": {
+      "Milk Solids": {
+        "value": "21%",
+        "source": "explicit"
+      },
+      "Cocoa Solids": {
+        "value": "35%",
+        "source": "explicit"
+      },
+      "Fat Content": {
+        "value": "36%",
+        "source": "explicit"
+      }
+    },
+    "inferred": {}
+  },
+  "legal_specifications": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "nutritional_values": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "packaging_information": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "sales_commercial": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "technical_specifications": {
+    "explicit": {
+      "Product_Type": {
+        "value": "Milk Chocolate",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Base_Type": {
+        "value": "Chocolate for home baking",
+        "source": "inferred",
+        "note": "The product is intended for use in cakes within the home baking segment."
+      }
+    }
+  }
+}

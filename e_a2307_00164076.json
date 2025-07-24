@@ -1,0 +1,58 @@
+{
+  "allergen_items": {
+    "explicit": {
+      "Contains_Milk_Proteins": {
+        "value": "No",
+        "source": "explicit"
+      }
+    },
+    "inferred": {}
+  },
+  "claims_certifications": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "ingredients_composition": {
+    "explicit": {
+      "Base_Type": {
+        "value": "Lauric fat",
+        "source": "explicit"
+      },
+      "Dry_Milk_Solids": {
+        "value": "0%",
+        "source": "explicit"
+      }
+    },
+    "inferred": {}
+  },
+  "legal_specifications": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "nutritional_values": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "packaging_information": {
+    "explicit": {
+      "Packaging_Type": {
+        "value": "95B",
+        "source": "explicit"
+      }
+    },
+    "inferred": {}
+  },
+  "sales_commercial": {
+    "explicit": {
+      "Cost": {
+        "value": "Cheap",
+        "source": "explicit"
+      }
+    },
+    "inferred": {}
+  },
+  "technical_specifications": {
+    "explicit": {},
+    "inferred": {}
+  }
+}

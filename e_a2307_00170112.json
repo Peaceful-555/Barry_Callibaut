@@ -1,0 +1,98 @@
+{
+  "allergen_items": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "claims_certifications": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "ingredients_composition": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "legal_specifications": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "nutritional_values": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "packaging_information": {
+    "explicit": {
+      "CHW-BS-91014-A99 White Chocolate Blossom": {
+        "value": "4 kg",
+        "source": "explicit"
+      },
+      "CHW-BS-90253-A99 Ivory Decor Curl": {
+        "value": "10 lbs / 4.53592 kg",
+        "source": "explicit"
+      },
+      "CHW-SV-90337-A99 Ivory Chocolate Flakes": {
+        "value": "8 lbs / 3.6287 kg",
+        "source": "explicit"
+      },
+      "CHW-DR-2010610-015 Van Leer White Chocolate Chips 1000CT/LB": {
+        "value": "22 lbs / box",
+        "source": "explicit"
+      },
+      "CHW-DR-2010603-036 VN239062 Ultimate Chip - White 1000CT/LB": {
+        "value": "30 lbs / box",
+        "source": "explicit"
+      },
+      "CHW-DR-2010602-036 912086 Ultimate Chip - White 4000CT/LB": {
+        "value": "30 lbs / box",
+        "source": "explicit"
+      },
+      "CHW-DR-2010611-040 Van Leer White Chocolate Chips 10000CT/LB": {
+        "value": "30 lbs / box",
+        "source": "explicit"
+      }
+    },
+    "inferred": {}
+  },
+  "sales_commercial": {
+    "explicit": {
+      "CHW-BS-91014-A99 White Chocolate Blossom": {
+        "value": "$11.847/kg",
+        "source": "explicit"
+      },
+      "CHW-BS-90253-A99 Ivory Decor Curl": {
+        "value": "$11.89/kg",
+        "source": "explicit"
+      },
+      "CHW-SV-90337-A99 Ivory Chocolate Flakes": {
+        "value": "$14.172/kg",
+        "source": "explicit"
+      },
+      "CHW-DR-2010610-015 Van Leer White Chocolate Chips 1000CT/LB": {
+        "value": "$8.50/kg",
+        "source": "explicit"
+      },
+      "CHW-DR-2010603-036 VN239062 Ultimate Chip - White 1000CT/LB": {
+        "value": "$7.41/kg",
+        "source": "explicit"
+      },
+      "CHW-DR-2010602-036 912086 Ultimate Chip - White 4000CT/LB": {
+        "value": "$8.41/kg",
+        "source": "explicit"
+      },
+      "CHW-DR-2010611-040 Van Leer White Chocolate Chips 10000CT/LB": {
+        "value": "$8.11/kg",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "IMW-DR-2051603-047 1M Compound Chip": {
+        "value": "Not approved for sale in Canada due to tariffs",
+        "source": "inferred",
+        "note": "Explicitly mentioned as not approved for sale in Canada"
+      }
+    }
+  },
+  "technical_specifications": {
+    "explicit": {},
+    "inferred": {}
+  }
+}
