@@ -1,0 +1,103 @@
+{
+  "allergen_items": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "claims_certifications": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "ingredients_composition": {
+    "explicit": {
+      "Cocoa Powder": {
+        "value": "Cocoa powder",
+        "source": "explicit"
+      },
+      "Fat Content": {
+        "value": "10.7 g/100g",
+        "source": "explicit"
+      },
+      "Moisture Content": {
+        "value": "5.51 g/100g",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Cocoa Solids": {
+        "value": "High cocoa solids content inferred from cocoa powder sample",
+        "source": "inferred",
+        "note": "Cocoa powder typically contains high cocoa solids."
+      }
+    }
+  },
+  "legal_specifications": {
+    "explicit": {},
+    "inferred": {
+      "pH Compliance": {
+        "value": "8.41",
+        "source": "inferred",
+        "note": "pH value indicates alkalized cocoa powder, which may require compliance with specific regulations."
+      }
+    }
+  },
+  "nutritional_values": {
+    "explicit": {
+      "Fat Content": {
+        "value": "10.7 g/100g",
+        "source": "explicit"
+      },
+      "Moisture Content": {
+        "value": "5.51 g/100g",
+        "source": "explicit"
+      }
+    },
+    "inferred": {}
+  },
+  "packaging_information": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "sales_commercial": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "technical_specifications": {
+    "explicit": {
+      "Fineness (<75um)": {
+        "value": "99.54%",
+        "source": "explicit"
+      },
+      "Color L*": {
+        "value": "2.6",
+        "source": "explicit"
+      },
+      "Color a*": {
+        "value": "1.9",
+        "source": "explicit"
+      },
+      "Color b*": {
+        "value": "1.6",
+        "source": "explicit"
+      },
+      "Color C*": {
+        "value": "2.5",
+        "source": "explicit"
+      },
+      "Color h": {
+        "value": "39.9",
+        "source": "explicit"
+      },
+      "pH": {
+        "value": "8.41",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Alkalized Cocoa Powder": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "pH value of 8.41 suggests alkalization."
+      }
+    }
+  }
+}

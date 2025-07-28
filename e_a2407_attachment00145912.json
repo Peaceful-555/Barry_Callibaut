@@ -1,0 +1,187 @@
+{
+  "allergen_items": {
+    "explicit": {
+      "Contains_Soy_Proteins": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "Contains_Milk_Proteins": {
+        "value": "Yes",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Contains_Palm_Oil": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Palm oil is explicitly listed in the ingredients."
+      }
+    }
+  },
+  "claims_certifications": {
+    "explicit": {
+      "Non_GMO": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "No_Hydrogenated_Fats": {
+        "value": "Yes",
+        "source": "explicit"
+      },
+      "Ionizing_Radiation_Free": {
+        "value": "Yes",
+        "source": "explicit"
+      }
+    },
+    "inferred": {}
+  },
+  "ingredients_composition": {
+    "explicit": {
+      "Sugar": {
+        "value": "Present",
+        "source": "explicit"
+      },
+      "Vegetable_Fats": {
+        "value": "Palm, Sunflower, Soybean, Rapeseed",
+        "source": "explicit"
+      },
+      "Dry_Milk_Solids": {
+        "value": "Partially defatted milk powder",
+        "source": "explicit"
+      },
+      "Emulsifier": {
+        "value": "Soy Lecithin (E322)",
+        "source": "explicit"
+      },
+      "Natural_Flavoring": {
+        "value": "Vanilla",
+        "source": "explicit"
+      },
+      "Cocoa_Powder": {
+        "value": "16% (for dark chocolate substitute)",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Contains_Vegetable_Fats": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Vegetable fats are explicitly listed in the ingredients."
+      }
+    }
+  },
+  "legal_specifications": {
+    "explicit": {
+      "Legislation": {
+        "value": "2003/1829/EC and 2003/1830/EC",
+        "source": "explicit"
+      }
+    },
+    "inferred": {}
+  },
+  "nutritional_values": {
+    "explicit": {
+      "Energy_Value_Kcal": {
+        "value": "585 (Caravella Cover White), 576 (Centramerica Bianco Dischi), 547 (Caribe Fondente Dischi)",
+        "source": "explicit"
+      },
+      "Energy_Value_Kj": {
+        "value": "2438 (Caravella Cover White), 2403 (Centramerica Bianco Dischi), 2279 (Caribe Fondente Dischi)",
+        "source": "explicit"
+      },
+      "Total_Fat_g": {
+        "value": "39.0 (Caravella Cover White), 36.0 (Centramerica Bianco Dischi), 34.0 (Caribe Fondente Dischi)",
+        "source": "explicit"
+      },
+      "Saturated_Fatty_Acid_g": {
+        "value": "17.0 (Caravella Cover White), 31.0 (Centramerica Bianco Dischi), 33.0 (Caribe Fondente Dischi)",
+        "source": "explicit"
+      },
+      "Trans_Fatty_Acid_TFa_g": {
+        "value": "< 0.5 (Caravella Cover White), 0.0 (Centramerica Bianco Dischi), 0.2 (Caribe Fondente Dischi)",
+        "source": "explicit"
+      },
+      "Total_Carbohydrates_g": {
+        "value": "50.0 (Caravella Cover White), 59.0 (Centramerica Bianco Dischi), 54.0 (Caribe Fondente Dischi)",
+        "source": "explicit"
+      },
+      "Sugars_g": {
+        "value": "50.0 (Caravella Cover White), 59.0 (Centramerica Bianco Dischi), 52.0 (Caribe Fondente Dischi)",
+        "source": "explicit"
+      },
+      "Protein_g": {
+        "value": "8.5 (Caravella Cover White), 4.0 (Centramerica Bianco Dischi), 3.7 (Caribe Fondente Dischi)",
+        "source": "explicit"
+      },
+      "Salt_g": {
+        "value": "0.36 (Caravella Cover White), 0.17 (Centramerica Bianco Dischi), 0.01 (Caribe Fondente Dischi)",
+        "source": "explicit"
+      },
+      "Sodium_mg": {
+        "value": "143 (Caravella Cover White), 67 (Centramerica Bianco Dischi), 5 (Caribe Fondente Dischi)",
+        "source": "explicit"
+      }
+    },
+    "inferred": {}
+  },
+  "packaging_information": {
+    "explicit": {
+      "Primary_Weight_Unit": {
+        "value": "5 kg (Caravella Cover White), 10 kg (Centramerica Bianco Dischi), 20 kg (Caribe Fondente Dischi)",
+        "source": "explicit"
+      },
+      "Packaging_Type": {
+        "value": "Polypropylene buckets (Caravella Cover White), Cardboard boxes with polyethylene lining (Centramerica Bianco Dischi and Caribe Fondente Dischi)",
+        "source": "explicit"
+      },
+      "Pallet_Net_Weight_In_Kg": {
+        "value": "600 kg (Caravella Cover White), 810 kg (Centramerica Bianco Dischi), 900 kg (Caribe Fondente Dischi)",
+        "source": "explicit"
+      }
+    },
+    "inferred": {}
+  },
+  "sales_commercial": {
+    "explicit": {
+      "Shelflife": {
+        "value": "360 days (Caravella Cover White and Centramerica Bianco Dischi), 540 days (Caribe Fondente Dischi)",
+        "source": "explicit"
+      }
+    },
+    "inferred": {}
+  },
+  "technical_specifications": {
+    "explicit": {
+      "Moisture_Content": {
+        "value": "\u2264 1.0%",
+        "source": "explicit"
+      },
+      "Fat_Content": {
+        "value": "38.0 - 40.0% (Caravella Cover White), 35.0 - 37.0% (Centramerica Bianco Dischi), 33 - 35% (Caribe Fondente Dischi)",
+        "source": "explicit"
+      },
+      "Viscosity_mPa_s": {
+        "value": "750-1100 (Centramerica Bianco Dischi), 1700-2000 (Caribe Fondente Dischi)",
+        "source": "explicit"
+      },
+      "Microbiological_Characteristics": {
+        "value": {
+          "Total_Bacteria": "\u2264 5,000 CFU/g",
+          "Yeast": "\u2264 50 CFU/g",
+          "Mold": "\u2264 50 CFU/g",
+          "Enterobacteria": "\u2264 10 CFU/g",
+          "Salmonella": "Absent in 100 g",
+          "E_Coli": "\u2264 10 CFU/g"
+        },
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Freezer_Stability": {
+        "value": "Yes",
+        "source": "inferred",
+        "note": "Explicit mention of freezing capability in product description."
+      }
+    }
+  }
+}

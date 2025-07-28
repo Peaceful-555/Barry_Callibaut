@@ -1,0 +1,97 @@
+{
+  "allergen_items": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "claims_certifications": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "ingredients_composition": {
+    "explicit": {
+      "Fat": {
+        "value": "36.6 g/100g",
+        "source": "explicit"
+      },
+      "Moisture": {
+        "value": "0.72 g/100g",
+        "source": "explicit"
+      }
+    },
+    "inferred": {}
+  },
+  "legal_specifications": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "nutritional_values": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "packaging_information": {
+    "explicit": {},
+    "inferred": {}
+  },
+  "sales_commercial": {
+    "explicit": {
+      "Order Number": {
+        "value": "25-02336",
+        "source": "explicit"
+      },
+      "Project Reference": {
+        "value": "24-0830",
+        "source": "explicit"
+      },
+      "Order Submission Date": {
+        "value": "2025-02-20",
+        "source": "explicit"
+      },
+      "Sample Receipt Date": {
+        "value": "2025-04-07",
+        "source": "explicit"
+      },
+      "Reporting Date": {
+        "value": "2025-04-18",
+        "source": "explicit"
+      }
+    },
+    "inferred": {}
+  },
+  "technical_specifications": {
+    "explicit": {
+      "Linear Viscosity": {
+        "value": "1760 mPa*s",
+        "source": "explicit"
+      },
+      "Casson Viscosity": {
+        "value": "1300 mPa*s",
+        "source": "explicit"
+      },
+      "Casson Yield": {
+        "value": "4.2 Pa",
+        "source": "explicit"
+      },
+      "Particles >30um on dff (sieve)": {
+        "value": "3%",
+        "source": "explicit"
+      }
+    },
+    "inferred": {
+      "Product_Type": {
+        "value": "White Chocolate",
+        "source": "inferred",
+        "note": "Based on the description 'white chocolate' in the document."
+      },
+      "Base_Type": {
+        "value": "Chocolate",
+        "source": "inferred",
+        "note": "Derived from the material description 'Chocolate - white'."
+      },
+      "Fineness_Type": {
+        "value": "%>30um (sieve calc)",
+        "source": "inferred",
+        "note": "Fineness measurement provided in the document."
+      }
+    }
+  }
+}
